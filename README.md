@@ -1,1 +1,1 @@
-# C2TC_corejava
+This above folder have a basic code of Core JAVA.
